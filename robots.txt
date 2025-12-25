@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://transcendent-douhua-e9d952.netlify.app/sitemap.xml
